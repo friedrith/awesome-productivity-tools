@@ -2,3 +2,4 @@
 
 - [screen.studio](https://www.screen.studio/)
 - [screenity](https://screenity.io/en/)
+- [Trupeer](https://www.trupeer.ai/)
